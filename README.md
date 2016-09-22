@@ -1,6 +1,5 @@
 * Avro
 * Harrier
-* Hornet
 
 The courses comprising the Data Science Specialization are:
 
